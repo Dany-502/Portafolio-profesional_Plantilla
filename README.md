@@ -15,13 +15,13 @@ Este es mi portafolio web personal, el cual describe mis habilidades, experienci
 
 ## Detalles Técnicos del Proyecto
 
-- **Framework CSS:** Este portafolio no utiliza Bootstrap ni Tailwind CSS. Emplea un sistema de cuadrícula (Grid) personalizado y estilos CSS puros (Vanilla CSS) estructurados para ser altamente responsivos y modulares.
+- **Framework CSS:** Este portafolio emplea un sistema de cuadrícula (Grid) personalizado y estilos CSS puros (Vanilla CSS) estructurados para ser altamente responsivos y modulares.
 - **Plantilla Base:** Se utilizó la plantilla **"Ceevee 2.0"** (Versión 2.0.0).
 - **Enlace de la Plantilla:** [StyleShout - Ceevee Template](https://www.styleshout.com/free-templates/ceevee/)
 
 ### Menús y Secciones del Portafolio
 
-El portafolio se compone de una sola página (Single Page Application) con navegación fluida entre las siguientes secciones:
+El portafolio se compone de una sola página con navegación fluida entre las siguientes secciones:
 
 1. **Inicio (`#hero`):** La sección principal de bienvenida con el nombre, título profesional y un resumen muy breve del perfil. Incluye enlaces a redes sociales y un botón para deslizarse hacia la siguiente sección.
 2. **Sobre mí (`#about`):** Una breve biografía personal y profesional, junto con los datos de contacto directos y un botón para descargar el currículum vitae (CV).
@@ -37,7 +37,7 @@ El portafolio se compone de una sola página (Single Page Application) con naveg
 
 ## Proceso de Creación y Modificaciones
 
-El portafolio se construyó partiendo de la plantilla Ceevee 2.0. Para adaptarla a las necesidades específicas del perfil de Jose Daniel, se realizó el siguiente proceso paso a paso:
+El portafolio se construyó partiendo de la plantilla Ceevee 2.0. Para adaptarla a las necesidades específicas de mi perfil, se realizó el siguiente proceso paso a paso:
 
 ### 1. Traducción y Personalización Básica
 - Se tradujo toda la estructura de la página (menús, encabezados de secciones, etiquetas) del inglés al español.
