@@ -6,7 +6,7 @@
 * **Estudiante:** Rodriguez Juarez Jose Daniel
 * **No.Control:** 22161222
 * **Grupo:** 7SC
-* **GitHub Pages:** 
+* **GitHub Pages:** https://dany-502.github.io/Portafolio-profesional_Plantilla/
 
 ## Descripción Breve
 Este es mi portafolio web personal, el cual describe mis habilidades, experiencia y proyectos que realice/colabore , soy un profesional enfocado en la Programación y el Diseño UI/UX. El portafolio está diseñado para destacar mi experiencia laboral, mi formación académica, mis habilidades técnicas y una galería interactiva de los proyectos que he desarrollado.
