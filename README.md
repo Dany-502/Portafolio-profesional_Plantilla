@@ -1,7 +1,12 @@
-# Portafolio Personal - Jose Daniel Rodriguez Juarez
+# Portafolio Personal  
 
-![Portada del Portafolio](screenshots/portada.png)
-*(Nota: Añade una captura de pantalla general de la página de inicio y guárdala como `portada.png` en una carpeta llamada `screenshots`)*
+* **Institución:** Instituto Tecnológico de Oaxaca
+* **Carrera:** Ingeniería en Sistemas Computacionales
+* **Materia:** Programación Web
+* **Estudiante:** Rodriguez Juarez Jose Daniel
+* **No.Control:** 22161222
+* **Grupo:** 7SC
+* **GitHub Pages:** 
 
 ## Descripción Breve
 Este es mi portafolio web personal, el cual describe mis habilidades, experiencia y proyectos que realice/colabore , soy un profesional enfocado en la Programación y el Diseño UI/UX. El portafolio está diseñado para destacar mi experiencia laboral, mi formación académica, mis habilidades técnicas y una galería interactiva de los proyectos que he desarrollado.
